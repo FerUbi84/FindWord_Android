@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "pt.ubi.di.pmd.a45511_T1.app-merged_res-29:/drawable_guess_meme.jpg.flat",
+        "source": "pt.ubi.di.pmd.a45511_T1.app-main-30:/drawable/guess_meme.jpg"
+    },
+    {
+        "merged": "pt.ubi.di.pmd.a45511_T1.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "pt.ubi.di.pmd.a45511_T1.app-main-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "pt.ubi.di.pmd.a45511_T1.app-merged_res-29:/layout_wrong_quote.xml.flat",
+        "source": "pt.ubi.di.pmd.a45511_T1.app-main-30:/layout/wrong_quote.xml"
+    },
+    {
+        "merged": "pt.ubi.di.pmd.a45511_T1.app-merged_res-29:/drawable_wrong_meme.jpg.flat",
+        "source": "pt.ubi.di.pmd.a45511_T1.app-main-30:/drawable/wrong_meme.jpg"
+    },
+    {
+        "merged": "pt.ubi.di.pmd.a45511_T1.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "pt.ubi.di.pmd.a45511_T1.app-main-30:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "pt.ubi.di.pmd.a45511_T1.app-merged_res-29:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "pt.ubi.di.pmd.a45511_T1.app-main-30:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "pt.ubi.di.pmd.a45511_T1.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "pt.ubi.di.pmd.a45511_T1.app-main-30:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "pt.ubi.di.pmd.a45511_T1.app-merged_res-29:/layout_guess.xml.flat",
+        "source": "pt.ubi.di.pmd.a45511_T1.app-main-30:/layout/guess.xml"
+    },
+    {
+        "merged": "pt.ubi.di.pmd.a45511_T1.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "pt.ubi.di.pmd.a45511_T1.app-main-30:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "pt.ubi.di.pmd.a45511_T1.app-merged_res-29:/layout_activity_guess_quote.xml.flat",
+        "source": "pt.ubi.di.pmd.a45511_T1.app-main-30:/layout/activity_guess_quote.xml"
+    },
+    {
+        "merged": "pt.ubi.di.pmd.a45511_T1.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "pt.ubi.di.pmd.a45511_T1.app-main-30:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "pt.ubi.di.pmd.a45511_T1.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "pt.ubi.di.pmd.a45511_T1.app-main-30:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "pt.ubi.di.pmd.a45511_T1.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "pt.ubi.di.pmd.a45511_T1.app-main-30:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "pt.ubi.di.pmd.a45511_T1.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "pt.ubi.di.pmd.a45511_T1.app-main-30:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "pt.ubi.di.pmd.a45511_T1.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "pt.ubi.di.pmd.a45511_T1.app-main-30:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "pt.ubi.di.pmd.a45511_T1.app-merged_res-29:/layout_pop_miss.xml.flat",
+        "source": "pt.ubi.di.pmd.a45511_T1.app-main-30:/layout/pop_miss.xml"
+    },
+    {
+        "merged": "pt.ubi.di.pmd.a45511_T1.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "pt.ubi.di.pmd.a45511_T1.app-main-30:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "pt.ubi.di.pmd.a45511_T1.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "pt.ubi.di.pmd.a45511_T1.app-main-30:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "pt.ubi.di.pmd.a45511_T1.app-merged_res-29:/drawable_great_meme.jpg.flat",
+        "source": "pt.ubi.di.pmd.a45511_T1.app-main-30:/drawable/great_meme.jpg"
+    },
+    {
+        "merged": "pt.ubi.di.pmd.a45511_T1.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "pt.ubi.di.pmd.a45511_T1.app-main-30:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "pt.ubi.di.pmd.a45511_T1.app-merged_res-29:/layout_next_word.xml.flat",
+        "source": "pt.ubi.di.pmd.a45511_T1.app-main-30:/layout/next_word.xml"
+    },
+    {
+        "merged": "pt.ubi.di.pmd.a45511_T1.app-merged_res-29:/layout_activity_game.xml.flat",
+        "source": "pt.ubi.di.pmd.a45511_T1.app-main-30:/layout/activity_game.xml"
+    },
+    {
+        "merged": "pt.ubi.di.pmd.a45511_T1.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "pt.ubi.di.pmd.a45511_T1.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "pt.ubi.di.pmd.a45511_T1.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "pt.ubi.di.pmd.a45511_T1.app-main-30:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "pt.ubi.di.pmd.a45511_T1.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "pt.ubi.di.pmd.a45511_T1.app-main-30:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "pt.ubi.di.pmd.a45511_T1.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "pt.ubi.di.pmd.a45511_T1.app-main-30:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "pt.ubi.di.pmd.a45511_T1.app-merged_res-29:/drawable_come_on.jpg.flat",
+        "source": "pt.ubi.di.pmd.a45511_T1.app-main-30:/drawable/come_on.jpg"
+    }
+]
